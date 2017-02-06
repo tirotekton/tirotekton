@@ -13,7 +13,7 @@ body {
   content: '';
   width: 100%;
   height: 210px;
-  background-image: url(/img/identicon.png);
+  background-image: url(../img/identicon.png);
   background-repeat: no-repeat;
   background-position: top center;
 }
